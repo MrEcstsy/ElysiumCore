@@ -47,7 +47,7 @@ This one had the most potential despite the poor code choices.
 # Lootboxes:
 
 ![image](https://github.com/user-attachments/assets/41b956c5-bea3-4f2b-b5e3-1b9dcda5a4a6)
-![image](https://github.com/user-attachments/assets/26045e71-af62-438a-85a9-80fae086b2f8)
+![image](https://github.com/user-attachments/assets/296c7f90-db2a-4eeb-9204-83d964550262)
 
 # Selling:
 
