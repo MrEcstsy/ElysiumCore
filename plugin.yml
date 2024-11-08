@@ -1,0 +1,26 @@
+name: ElysiumCore
+main: xtcy\ElysiumCore\Loader
+api: 5.0.0
+version: 1.0.0
+author: xtcy
+permissions:
+  command.default:
+    default: true
+    description: The default permission for all commands in this plugin.
+  command.admin:
+    default: op
+    description: The admin permission for all admin commands in this plugin.
+  command.coordinate:
+    default: false
+  command.feed:
+    default: false
+  command.heal:
+    default: false
+  command.fly:
+    default: false
+  command.nick:
+    default: op 
+  command.sellall:
+    default: false
+  command.fix:
+    default: op
